@@ -1,0 +1,11 @@
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\obj\Debug\capanegocio.csprojAssemblyReference.cache
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\obj\Debug\capanegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\bin\Debug\capanegocio.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\bin\Debug\capanegocio.pdb
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\bin\Debug\capadatos.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\bin\Debug\capaentidad.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\bin\Debug\capadatos.pdb
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\bin\Debug\capaentidad.pdb
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\obj\Debug\capanegocio.csproj.CopyComplete
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\obj\Debug\capanegocio.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capanegocio\obj\Debug\capanegocio.pdb

@@ -1,0 +1,2 @@
+C:\Users\Lab-01\source\repos\WebApplication1\WebApplication1\obj\Release\CapaPresentacion admin.csprojAssemblyReference.cache
+C:\Users\Lab-01\source\repos\WebApplication1\WebApplication1\obj\Release\CapaPresentacion admin.csproj.CoreCompileInputs.cache

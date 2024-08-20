@@ -1,0 +1,5 @@
+C:\Users\Lab-01\source\repos\WebApplication1\capaentidad\bin\Release\capaentidad.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capaentidad\bin\Release\capaentidad.pdb
+C:\Users\Lab-01\source\repos\WebApplication1\capaentidad\obj\Release\capaentidad.csproj.CoreCompileInputs.cache
+C:\Users\Lab-01\source\repos\WebApplication1\capaentidad\obj\Release\capaentidad.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capaentidad\obj\Release\capaentidad.pdb

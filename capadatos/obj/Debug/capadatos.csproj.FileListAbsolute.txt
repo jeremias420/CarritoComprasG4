@@ -1,0 +1,9 @@
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\bin\Debug\capadatos.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\bin\Debug\capadatos.pdb
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\bin\Debug\capaentidad.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\bin\Debug\capaentidad.pdb
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\obj\Debug\capadatos.csprojAssemblyReference.cache
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\obj\Debug\capadatos.csproj.CoreCompileInputs.cache
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\obj\Debug\capadatos.csproj.CopyComplete
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\obj\Debug\capadatos.dll
+C:\Users\Lab-01\source\repos\WebApplication1\capadatos\obj\Debug\capadatos.pdb
