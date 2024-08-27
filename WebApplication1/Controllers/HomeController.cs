@@ -58,7 +58,7 @@ namespace WebApplication1.Controllers
 
             respuesta = new CN_Usuarios().Eliminar(usua_id, out mensaje);
 
-            return Json(new { resultado = respuesta, mensaje = mensaje }, JsonRequestBehavior.AllowGet)
+            return Json(new { resultado = respuesta, mensaje = mensaje }, JsonRequestBehavior.AllowGet);
 
         }
 

@@ -38,7 +38,7 @@ namespace capanegocio
                 string mensaje_correo = "<h3>Su Cuenta fue creada correctamente</h3></br><p>Su contraseña para acceder es: !clave!</p>";
                 mensaje_correo = mensaje_correo.Replace("!clave!", clave);
 
-                bool respuesta = CN_Recursos.EnviarCorreo(obj.usua_correo, asunto, mensaje_correo);
+                bool respuesta = CN_Recursos.EnviarCorreo(obj.usua_correo, "asunto", mensaje_correo);
 
                 if (respuesta)
                 {

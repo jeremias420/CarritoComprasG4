@@ -14,9 +14,12 @@ namespace capaentidad
         public Categoria prod_cate_id { get; set; }
         public Marca prod_marc_id { get; set; }
         public decimal prod_precio { get; set; }
+        public string prod_precio_texto { get; set; }
         public int prod_stock { get; set; }
         public string prod_ruta_imagen { get; set; }
         public string prod_nomb_imagen { get; set; }
         public bool prod_activo { get; set; }
+        public int prod_base64 { get; set; }
+        public int prod_extension { get; set; }
     }
 }
